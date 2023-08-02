@@ -37,7 +37,7 @@
     <td align="center">조만제</td>
   </tr>
     <tr>
-    <td align="center"><a href="https://github.com/bbbbooo"><b>@Subak-Uncle</b></td>
+    <td align="center"><a href="https://github.com/Subak-Uncle"><b>@Subak-Uncle</b></td>
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>@Dylan-SonJungin</b></td>
     <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
     <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
