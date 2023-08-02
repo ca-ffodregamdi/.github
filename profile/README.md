@@ -29,21 +29,20 @@
 
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/bbbbooo"><b>김종완</b></td>
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>손정인</b></td>
-    <td align="center"><a href="https://github.com/raxchaz"><b>라현지</b></td>
-    <td align="center"><a href="https://github.com/numerical43"><b>강수의</b></td>
-    <td align="center"><a href="https://github.com/hodin030e"><b>이효진</b></td>
-    <td align="center"><a href="https://github.com/fakerdeft"><b>조만제</b></td>
+    <td align="center">김종완</td>
+    <td align="center">손정인</td>
+    <td align="center">라현지</td>
+    <td align="center">강수의</td>
+    <td align="center">이효진</td>
+    <td align="center">조만제</td>
   </tr>
-
-  <tr>
-    <td align="center">Kim Jong Wan</td>
-    <td align="center">Son Jung In</td>
-    <td align="center">Ra Hyeon Ji</td>
-    <td align="center">Kang Su Ui</td>
-    <td align="center">Lee Hyo Jin</td>
-    <td align="center">Jo Man Je</td>
+    <tr>
+    <td align="center"><a href="https://github.com/bbbbooo"><b>@Subak-Uncle</b></td>
+    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>@Dylan-SonJungin</b></td>
+    <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
+    <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
+    <td align="center"><a href="https://github.com/hodin030e"><b>@hodin030</b></td>
+    <td align="center"><a href="https://github.com/fakerdeft"><b>@fakerdeft</b></td>
   </tr>
     <tr>
     <td align="center"><strong>백엔드</strong></td>
