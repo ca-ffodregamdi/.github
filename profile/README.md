@@ -41,7 +41,7 @@
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>@Dylan-SonJungin</b></td>
     <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
     <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
-    <td align="center"><a href="https://github.com/hodin030e"><b>@hodin030</b></td>
+    <td align="center"><a href="https://github.com/hodin030"><b>@hodin030</b></td>
     <td align="center"><a href="https://github.com/fakerdeft"><b>@fakerdeft</b></td>
   </tr>
     <tr>
