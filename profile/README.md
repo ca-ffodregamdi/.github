@@ -9,7 +9,7 @@
     <td align="center"><strong>Backend</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/ca-ffodregamdi/running-hi-front</td>
+    <td align="center">https://github.com/cca-ffodregamdi/running-hi-frontend</td>
     <td align="center">https://github.com/ca-ffodregamdi/running-hi-back</td>
   </tr>
 </table>
