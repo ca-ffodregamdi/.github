@@ -17,7 +17,7 @@
 ## Repository
 
 > ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)** <Br>
-> ⚙️ **[FrontEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)**
+> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)**
 
 <br>
 
