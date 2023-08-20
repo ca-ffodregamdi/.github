@@ -1,7 +1,14 @@
 <div align="center">
     
-# [🏃] RUNNING HI : 러닝하이
+## [🏃] RUNNING HI : 러닝하이
+
+<Br>
+
 <img width="250" alt="image" src="https://github.com/cca-ffodregamdi/.github/assets/119282494/ff52abf3-6873-4f68-8d35-c2ed0e5102e4">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi&count_bg=%2336428F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <br>
 </div>
@@ -57,7 +64,8 @@
 
 ## Main Page
 
-
+<br>
+<br>
 
 ## Team CCA-FFODREGAMDI
 > **메타버스 아카데미 2기** <br/> **개발기간: 2023.08.01 ~ 2023.08.31**
