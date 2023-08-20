@@ -17,7 +17,8 @@
 ## Repository
 
 > ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)** <Br>
-> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)**
+> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)** <Br>
+> ⚙️ **[Team Notion](https://www.notion.so/hammang/adff9907f8244768b9c080bc519b3a1f?pvs=4)**
 
 <br>
 
@@ -44,6 +45,7 @@
 >**러닝하이를 통해 당신만의 코스를 공유해주세요!**
 
 <br>
+
 
 ## 주요 기능
 
@@ -85,12 +87,12 @@
 
   </tr>
   <tr>
-    <td align="center">김종완</td>
-    <td align="center">손정인</td>
-    <td align="center">라현지</td>
-    <td align="center">이효진</td>
-    <td align="center">조만제</td>
-    <td align="center">강수의</td>
+    <td align="center"><strong>김종완</strong></td>
+    <td align="center"><strong>손정인</strong></td>
+    <td align="center"><strong>라현지</strong></td>
+    <td align="center"><strong>이효진</strong></td>
+    <td align="center"><strong>조만제</strong></td>
+    <td align="center"><strong>강수의</strong></td>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/Subak-Uncle"><b>@Subak-Uncle</b></td>
@@ -124,6 +126,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Reactt&logoColor=white)
 ![React](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Reduxt&logoColor=white)
+<br>
 ![Html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
