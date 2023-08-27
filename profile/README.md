@@ -12,27 +12,9 @@
 
 <br>
 </div>
-
-
-## Repository
-
-> ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)** <Br>
-> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)** <Br>
-> ⚙️ **[Team Notion](https://www.notion.so/hammang/adff9907f8244768b9c080bc519b3a1f?pvs=4)**
-
 <br>
 
-## 배포 주소
-> **개발 버전** :
-> <br>
-> **프론트 서버** :
-> <br> 
-> **백엔드 서버** : 
-
-<br>
-
-
-## 프로젝트 소개
+## 📍 프로젝트 소개
 > **`러닝하이`는 `러닝 코스 추천` 플랫폼입니다.**
 <br>
 
@@ -47,7 +29,7 @@
 <br>
 
 
-## 주요 기능
+## 📍 주요 기능
 
 **`1️⃣ 각 도시 별 추천 러닝 코스를 추천합니다.`**
 
@@ -59,23 +41,18 @@
 
 **`5️⃣ 유저 개인의 러닝 기록을 확인 가능하도록 합니다.`**
 
-**`6️⃣ 반응형 웹을 지원하여, 사용자 경험을 높입니다.`**
+**`6️⃣ 모바일 반응형 웹을 지원하여, 사용자의 편의를 돕습니다.`**
 
 
-<br>
+<Br>
 
-## Main Page
 
-<br>
-<br>
-
-## Team CCA-FFODREGAMDI
+## 📍 Team CCA-FFODREGAMDI
 > **메타버스 아카데미 2기** <br/> **개발기간: 2023.08.01 ~ 2023.08.31**
 
 <br>
 
-
-## 팀원 소개
+## 📍 팀원 소개
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Subak-Uncle"><img src="https://avatars.githubusercontent.com/Subak-Uncle" width="150px;" alt="">
@@ -114,7 +91,38 @@
 
 <br>
 
-## 기술 스택
+
+
+## 📍 Repository
+
+> ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)** <Br>
+> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)** <Br>
+> ⚙️ **[Team Notion](https://www.notion.so/hammang/adff9907f8244768b9c080bc519b3a1f?pvs=4)**
+
+<br>
+
+## 📍 배포 주소
+> **개발 버전** :
+> <br>
+> **프론트 서버** :
+> <br> 
+> **백엔드 서버** : 
+
+<br>
+
+## 📍 Main Page
+
+### web
+
+### mobile.ver
+<br>
+<br>
+
+
+
+
+
+## 📍 기술 스택
 #### Environment
 <img src="https://img.shields.io/badge/Intelii J-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 
