@@ -112,10 +112,11 @@
 
 ## 📍 Main Page
 
-### web
-
-### mobile.ver
+### 🖥️ web.ver
 <br>
+
+### 📱mobile.ver
+
 <br>
 
 
