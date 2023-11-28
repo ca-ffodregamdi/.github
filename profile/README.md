@@ -1,12 +1,10 @@
 <div align="center">
     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi&count_bg=%2336428F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 ## [🏃] RUNNING HI : 러닝하이
 
 <Br>
 
-<img width="250" alt="image" src="https://github.com/cca-ffodregamdi/.github/assets/119282494/ff52abf3-6873-4f68-8d35-c2ed0e5102e4">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi&count_bg=%2336428F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
