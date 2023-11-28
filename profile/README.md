@@ -12,7 +12,7 @@
 </div>
 <br>
 
-## 📍 프로젝트 소개
+## 🔻 프로젝트 소개
 > **`러닝하이`는 `러닝 코스 추천` 플랫폼입니다.**
 <br>
 
@@ -27,7 +27,7 @@
 <br>
 
 
-## 📍 주요 기능
+## 🔻 주요 기능
 
 **`1️⃣ 각 도시 별 추천 러닝 코스를 추천합니다.`**
 
@@ -42,56 +42,12 @@
 **`6️⃣ 모바일 반응형 웹을 지원하여, 사용자의 편의를 돕습니다.`**
 
 
-<Br>
-
-
-## 📍 Team CCA-FFODREGAMDI
-> **메타버스 아카데미 2기** <br/> **개발기간: 2023.08.01 ~ 2023.08.31**
-
-<br>
-
-## 📍 팀원 소개
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Subak-Uncle"><img src="https://avatars.githubusercontent.com/Subak-Uncle" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/hodin030"><img src="https://avatars.githubusercontent.com/hodin030" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
-
-  </tr>
-  <tr>
-    <td align="center"><strong>김종완</strong></td>
-    <td align="center"><strong>손정인</strong></td>
-    <td align="center"><strong>라현지</strong></td>
-    <td align="center"><strong>이효진</strong></td>
-    <td align="center"><strong>조만제</strong></td>
-    <td align="center"><strong>강수의</strong></td>
-  </tr>
-    <tr>
-    <td align="center"><a href="https://github.com/Subak-Uncle"><b>@Subak-Uncle</b></td>
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>@Dylan-SonJungin</b></td>
-    <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
-    <td align="center"><a href="https://github.com/hodin030"><b>@hodin030</b></td>
-    <td align="center"><a href="https://github.com/fakerdeft"><b>@fakerdeft</b></td>
-    <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
-  </tr>
-    <tr>
-    <td align="center"><strong>백엔드</strong></td>
-    <td align="center"><strong>백엔드</strong></td>
-    <td align="center"><strong>프론트엔드</strong></td>
-    <td align="center"><strong>백엔드</strong></td>
-    <td align="center"><strong>백엔드</strong></td>
-    <td align="center"><strong>백엔드</strong></td>
-  </tr>
-</table>
-
 <br>
 
 
 
-## 📍 Repository
+
+## 🔻 Repository
 
 > ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)** <Br>
 > ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)** <Br>
@@ -99,25 +55,15 @@
 
 <br>
 
-## 📍 배포 주소
-> **개발 버전** :
-> <br>
-> **프론트 서버** :
-> <br> 
-> **백엔드 서버** : 
+## 🔻 배포 주소
+> **배포 서버** :  https://running-hi.com/
 
 <br>
 
-## 📍 Main Page
+## 🔻 Main Page
 
 ### 🖥️ web.ver
 <br>
-
-### 📱mobile.ver
-
-<br>
-
-
 
 
 
@@ -142,4 +88,43 @@
 ![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
 
 <br>
+
+## 🔻 팀원 소개
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Subak-Uncle"><img src="https://avatars.githubusercontent.com/Subak-Uncle" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hodin030"><img src="https://avatars.githubusercontent.com/hodin030" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
+
+  </tr>
+  <tr>
+    <td align="center"><strong>김종완</strong></td>
+    <td align="center"><strong>손정인</strong></td>
+    <td align="center"><strong>라현지</strong></td>
+    <td align="center"><strong>이효진</strong></td>
+    <td align="center"><strong>강수의</strong></td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Subak-Uncle"><b>@Subak-Uncle</b></td>
+    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>@Dylan-SonJungin</b></td>
+    <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
+    <td align="center"><a href="https://github.com/hodin030"><b>@hodin030</b></td>
+    <td align="center"><a href="https://github.com/fakerdeft"><b>@fakerdeft</b></td>
+    <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>백엔드</strong></td>
+    <td align="center"><strong>백엔드</strong></td>
+    <td align="center"><strong>프론트엔드</strong></td>
+    <td align="center"><strong>백엔드</strong></td>
+    <td align="center"><strong>백엔드</strong></td>
+    <td align="center"><strong>백엔드</strong></td>
+  </tr>
+</table>
+
+<br>
+
 
