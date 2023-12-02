@@ -105,6 +105,7 @@
     <td align="center"><strong>손정인</strong></td>
     <td align="center"><strong>라현지</strong></td>
     <td align="center"><strong>이효진</strong></td>
+    <td align="center"><strong>조만제</strong></td>
     <td align="center"><strong>강수의</strong></td>
   </tr>
     <tr>
