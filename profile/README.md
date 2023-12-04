@@ -97,14 +97,19 @@
 
 <br>
 
+## 협업 툴
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white)
+![SwaggerUi](https://img.shields.io/badge/SwaggerUi-85EA2D?style=flat&logo=swagger&logoColor=white)
+
+<br>
+
 ## 📌 컨벤션
 #### ✅ 커뮤니케이션 컨벤션
 - 하루에 한 번, **개발 타임라인**에 당일 처리한 일(한 일)과 다음 일정을 업데이트 해주세요.
 - 모여서 회의가 불가능할 경우 **Discord**를 통해 회의합니다.
 - 회의록, 논의 사항은 **Git Discussion** 과 **Notion에** 정리합니다.
-- 협업 툴 : ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 #### ✅ **Git Convention**
 | **Convention**  | **내용**                                                         |
