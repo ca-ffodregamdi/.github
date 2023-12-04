@@ -89,11 +89,6 @@
 
 <br>
 
-## 🧱 프로젝트 아키텍처
-![image](https://github.com/cca-ffodregamdi/running-hi-back/assets/98208452/085bb740-bcbf-4054-9043-3ed0b1c106a0)
-
-<br>
-
 ## 🔻 Main Page
 
 ### 🖥️ web.ver
