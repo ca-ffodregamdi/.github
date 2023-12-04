@@ -43,8 +43,12 @@
 
 ## 🔻 Repository
 
-> ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)** <Br>
-> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)** <Br>
+> ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)**
+<br>
+
+> ⚙️ **[BackEnd Repository](https://github.com/ca-ffodregamdi/running-hi-back)**
+<br>
+
 > ⚙️ **[Team Notion](https://www.notion.so/hammang/adff9907f8244768b9c080bc519b3a1f?pvs=4)**
 
 <br>
