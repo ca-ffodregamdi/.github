@@ -59,7 +59,7 @@
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Subak-Uncle"><img src="https://avatars.githubusercontent.com/Subak-Uncle" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
     <td align="center"><a href="https://github.com/hodin030"><img src="https://avatars.githubusercontent.com/hodin030" width="150px;" alt="">
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
@@ -75,7 +75,7 @@
     <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
     <td align="center"><a href="https://github.com/Subak-Uncle"><b>@Subak-Uncle</b></td>
     <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>@Dylan-SonJungin</b></td>
+    <td align="center"><a href="https://github.com/silverpoodle"><b>@silverpoodle</b></td>
     <td align="center"><a href="https://github.com/hodin030"><b>@hodin030</b></td>
     <td align="center"><a href="https://github.com/fakerdeft"><b>@fakerdeft</b></td>
   </tr>
