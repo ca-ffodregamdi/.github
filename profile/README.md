@@ -86,7 +86,7 @@ MZ 세대는 걷기, 스트레칭, 체중 운동, 피트니스 트레이닝 등 
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Subak-Uncle"><img src="https://avatars.githubusercontent.com/Subak-Uncle" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/silverpoodle"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
     <td align="center"><a href="https://github.com/hodin030"><img src="https://avatars.githubusercontent.com/hodin030" width="150px;" alt="">
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
