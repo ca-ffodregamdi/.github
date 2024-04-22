@@ -81,42 +81,53 @@ MZ 세대는 걷기, 스트레칭, 체중 운동, 피트니스 트레이닝 등 
 <br>
 
 ## 👋 팀원 소개
+
+#### iOS
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/dbguswls030"><img src="https://avatars.githubusercontent.com/dbguswls030" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hogumachu"><img src="https://avatars.githubusercontent.com/hogumachu" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Youngs5"><img src="https://avatars.githubusercontent.com/Youngs5" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><strong>유현진</strong></td>
+    <td align="center"><strong>홍성준</strong></td>
+    <td align="center"><strong>오영석</strong></td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/dbguswls030"><b>@dbguswls030</b></td>
+    <td align="center"><a href="https://github.com/hogumachu"><b>@hogumachu</b></td>
+    <td align="center"><a href="https://github.com/Youngs5"><b>@Youngs5</b></td>
+  </tr>
+</table>
+
+<br/>
+
+
+#### BackEnd
 <table>
   <tr>
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Subak-Uncle"><img src="https://avatars.githubusercontent.com/Subak-Uncle" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href="https://github.com/silverpoodle"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
     <td align="center"><a href="https://github.com/hodin030"><img src="https://avatars.githubusercontent.com/hodin030" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><strong>강수의</strong></td>
     <td align="center"><strong>김종완</strong></td>
-    <td align="center"><strong>라현지</strong></td>
     <td align="center"><strong>손정인</strong></td>
     <td align="center"><strong>이효진</strong></td>
-    <td align="center"><strong>조만제</strong></td>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/numerical43"><b>@numerical43</b></td>
     <td align="center"><a href="https://github.com/Subak-Uncle"><b>@Subak-Uncle</b></td>
-    <td align="center"><a href="https://github.com/raxchaz"><b>@raxchaz</b></td>
     <td align="center"><a href="https://github.com/silverpoodle"><b>@silverpoodle</b></td>
     <td align="center"><a href="https://github.com/hodin030"><b>@hodin030</b></td>
-    <td align="center"><a href="https://github.com/fakerdeft"><b>@fakerdeft</b></td>
-  </tr>
-  <tr>
-    <td align="center">거북이1</td>
-    <td align="center">4'32''</td>
-    <td align="center">거북이2</td>
-    <td align="center">9'18''</td>
-    <td align="center">거북이3</td>
-    <td align="center">8'19''</td>
   </tr>
 </table>
 
-<br>
+<br/>
+
 
 ## 👟 이렇게 진행해요.
 
