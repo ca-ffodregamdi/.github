@@ -3,9 +3,8 @@
 
 # 🏃🏻‍♀️🏃🏼‍♂️ RUNNING HI : 러닝하이 🏃🏽🏃🏿‍♀️
 
- <img src="https://github.com/cca-ffodregamdi/.github/assets/88484476/5884c6c1-71d3-47c0-a38e-da467d73075e" width="30%"/>
- <img src="https://github.com/cca-ffodregamdi/.github/assets/88484476/783e1aa6-fec6-4138-800d-04c2c5044d63" width="32.65%"/>
- <img src="https://github.com/cca-ffodregamdi/.github/assets/88484476/51e691b7-0230-41a9-a908-7e955bf1a128" width="30%"/>
+![Group 1000005000](https://github.com/cca-ffodregamdi/.github/assets/88484476/24dcf4e7-aa63-4cd8-b8d2-1fd6a480b920)
+
 
 <br>
 <br/>
