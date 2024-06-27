@@ -3,7 +3,8 @@
 
 # 🏃🏻‍♀️🏃🏼‍♂️ RUNNING HI : 러닝하이 🏃🏽🏃🏿‍♀️
 
-![Group 1000005000](https://github.com/cca-ffodregamdi/.github/assets/88484476/24dcf4e7-aa63-4cd8-b8d2-1fd6a480b920)
+<img width="1200" alt="Group 1000005003" src="https://github.com/cca-ffodregamdi/.github/assets/88484476/88abb7c5-3bbf-4044-bb4b-00c10bddf189">
+
 
 
 <br>
