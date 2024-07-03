@@ -68,7 +68,7 @@ MZ 세대는 걷기, 스트레칭, 체중 운동, 피트니스 트레이닝 등 
 
 ## 🔻 Repository
 
-> ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/running-hi-frontend)**
+> ⚙️ **[FrontEnd Repository](https://github.com/cca-ffodregamdi/RunningHi-iOS)**
 <br>
 
 > ⚙️ **[BackEnd Repository](https://github.com/cca-ffodregamdi/running-hi-back-v2)**
