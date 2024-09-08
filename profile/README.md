@@ -9,7 +9,7 @@
 
 <br>
 
-<td align="center"><a href="https://github.com/user-attachments/assets/336e658d-4d41-427b-aa8b-6f2d520ea1d0"><img src="https://github.com/user-attachments/assets/336e658d-4d41-427b-aa8b-6f2d520ea1d0" width="250px;" alt="">
+<td align="center"><a href="https://apps.apple.com/kr/app/%EB%9F%AC%EB%8B%9D%ED%95%98%EC%9D%B4/id6504293843"><img src="https://github.com/user-attachments/assets/336e658d-4d41-427b-aa8b-6f2d520ea1d0" width="250px;" alt="">
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi%2Frunning-hi-back&count_bg=%232165C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
