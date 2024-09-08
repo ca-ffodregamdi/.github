@@ -3,12 +3,16 @@
 
 # 🏃🏻‍♀️🏃🏼‍♂️ RUNNING HI : 러닝하이 🏃🏽🏃🏿‍♀️
 
+
+
 ![image](https://github.com/cca-ffodregamdi/.github/assets/61495627/665d47b9-d19d-4234-9a6d-6e876d6312f3)
 
 <br>
+
+<td align="center"><a href="https://github.com/user-attachments/assets/336e658d-4d41-427b-aa8b-6f2d520ea1d0"><img src="https://github.com/user-attachments/assets/336e658d-4d41-427b-aa8b-6f2d520ea1d0" width="250px;" alt="">
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi%2Frunning-hi-back&count_bg=%23FFA49F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi%2Frunning-hi-back&count_bg=%232165C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
