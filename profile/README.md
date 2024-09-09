@@ -7,10 +7,14 @@
 
 ![image](https://github.com/cca-ffodregamdi/.github/assets/61495627/665d47b9-d19d-4234-9a6d-6e876d6312f3)
 
-<br>
+<br><br/>
 
+#### ▼ 바로 다운받아 사용해보세요! ▼
 <td align="center"><a href="https://apps.apple.com/kr/app/%EB%9F%AC%EB%8B%9D%ED%95%98%EC%9D%B4/id6504293843"><img src="https://github.com/user-attachments/assets/faa6b69c-aeb2-4c02-ba58-761eba6c03ae" width="550px;" alt="">
-<br/>
+
+##### 🍎iOS RELEASE 24.09.08🍎
+
+<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcca-ffodregamdi%2Frunning-hi-back&count_bg=%232165C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
